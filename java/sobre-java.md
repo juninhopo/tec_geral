@@ -94,12 +94,12 @@ A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. V
 
 Operador | Uso | Descricao
 -----|-----|-----
- + | op1 + op2 | Retorna a soma de op1 e op2
- - | op1 - op2 | Retorna a subtracao de op1 por op2
- * | op1 * op2 | Retorna a multiplicacao de op1 por op2
- / | op1 / op2 | Retorna a divisao de op1 por op2
- % | op1 % op2 | Retorna o resto da divisao de op1 por op2
- ++ | ++op | Incrementa op de 1, depois retorna o valor
- ++ | op++ | Retorna o valor de op, depois o incrementa de 1
- -- | --op | Decrementa op de 1, depois retorna o valor
- -- | op-- | Retorna o valor de op, depois o decrementa de 1
++ | op1 + op2 | Retorna a soma de op1 e op2
+- | op1 - op2 | Retorna a subtracao de op1 por op2
+* | op1 * op2 | Retorna a multiplicacao de op1 por op2
+/ | op1 / op2 | Retorna a divisao de op1 por op2
+% | op1 % op2 | Retorna o resto da divisao de op1 por op2
+++ | ++op | Incrementa op de 1, depois retorna o valor
+++ | op++ | Retorna o valor de op, depois o incrementa de 1
+-- | --op | Decrementa op de 1, depois retorna o valor
+-- | op-- | Retorna o valor de op, depois o decrementa de 1
