@@ -1,5 +1,17 @@
 # Indice:
 - [Utilizacoes e Aplicacoes do Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#utilizacoes-e-aplicacoes-do-java)
+- [Como e o funcionamento do java?](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#como-e-o-funcionamento-do-java)
+- [Tipos de Programas Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#tipos-de-programas-java)
+- [Como voce por ter um Ambiente de Programacao em Java?](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#como-voce-por-ter-um-ambiente-de-programacao-em-java)
+- [As convencoes do java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#as-convencoes-do-java)
+- [Comentarios em Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#comentarios-em-java)
+- [Tipos de Dados em Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#tipos-de-dados-em-java)
+- [Declarando e Atribuindo Valores a Variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#declarando-e-atribuindo-valores-a-variaveis)
+- [Como Declarar e Atribuir valores as Variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#como-declarar-e-atribuir-valores-as-variaveis)
+- [Operadores Aritmeticos](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#operadores-aritmeticos)
+- [Operadores Relacionais](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#operadores-relacionais)
+- [Estruturas basicas de Programacao](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#estruturas-basicas-de-programacao)
+- [Escopo de variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#escopo-de-variaveis)
 
 # Utilizacoes e Aplicacoes do Java
 
