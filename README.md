@@ -8,4 +8,4 @@
 
 - Aqui voce pode aprender um pouquinho mais sobre algumas tecnologia e encontrar alguns materiais importantes.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo/tec_geral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninhopo/tec_geral.git&layout=compact)](https://github.com/juninhopo/tec_geral)
