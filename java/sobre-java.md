@@ -86,4 +86,4 @@ A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. V
 - x = 6; //atribuimos valor a X
 - y = 1000; //atribuimos valor a Y
 - float f = 3.141516f; //ponto flutuante - utiliza o F no final do valor para nao confundir o compilar e informar que aquele valor de F e um <strong>FLOAT</strong>
-double w - 3.2310834; //ponto flutuante - dupla precisao
+- double w - 3.2310834; //ponto flutuante - dupla precisao
