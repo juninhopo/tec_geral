@@ -27,6 +27,16 @@ Editor - .java - Compilador - .class - Carregador - bytecodes - Verificador - by
 
 ### Compilador - O compilador Java converte o codigo-fonte Java em bytecodes, que representam as tarefas a serem realizadas durante a fase de execucao. Os bytecodes sao executados pela Java Virtual Machine (JVM) - uma parte do JDK e a base da plataforma Java. A maquina virtual Java (VM - Virtual Machine) e um aplicativo de software que simula um computador, mas oculta o sitemas operacional e o hardware subjacentes dos programas que interagem com a VM.
 
+# Como voce por ter um Ambiente de Programacao em Java?
+
+O ambiente de desenvolvimento de software em Java, Java SDK (antigamente JDK), e formado, essencialmente, por um conjunto de aplicativos que permite, entre outras tarefas, realizar a compilacao e a execucao de programas escritos na linguagem Java. Este ambiente pode ser baixado gratuitamente a partir do site da Sun Microsystems http://java.sun.com
+
+As ferramentas basicas do kit de desenvolvimento Java sao:
+
+- O compilador Java, javac
+- O interpretador de aplicacoes Java (maquina virtual), java
+- O interpretador de applets Java, appletviewer
+
 # As convencoes do java
 
 A linguagens de programacao Java e "Case sensitive". Existem varias convensoes utilizadas, sao elas:
