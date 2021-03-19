@@ -39,4 +39,4 @@ O java e uma linguagem de programacao fortemente tipada, ou melhor, necessita qu
 
 # Declarando e Atribuindo Valores a Variaveis
 
-A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. Voce inicia a declaracao
+A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. Voce inicia a declaracao.
