@@ -116,5 +116,3 @@ Op == | op1 == op2 | op1 for igual que op2
 Op != | op1 != op2 | op1 for diferente que op2
 Op && | op1 && op2 | se op1 e op2 forem verdadeiros
 Op \\|\\| | op1 \\|\\| op2 | se op1 ou op2 for verdadeiro
-
-Operacao acima o Markdown nao deixou eu colocar por conta da tabulacao, verifique no codigo.
