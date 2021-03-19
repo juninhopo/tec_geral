@@ -103,3 +103,16 @@ Op ++ | ++op | Incrementa op de 1, depois retorna o valor
 Op ++ | op++ | Retorna o valor de op, depois o incrementa de 1
 Op -- | --op | Decrementa op de 1, depois retorna o valor
 Op -- | op-- | Retorna o valor de op, depois o decrementa de 1
+
+# Operadores Relacionais
+
+Operador | Uso | Retorna verdadeiro se
+-----|-----|-----
+Op > | op1 > op2 | op1 for maior que op2
+Op >= | op1 >= op2 | op1 for maior ou igual que op2 
+Op < | op1 < op2 | op1 for menor que op2
+Op <= | op1 <= op2 | op1 for menor ou igual que op2
+Op == | op1 == op2 | op1 for igual que op2
+Op != | op1 != op2 | op1 for diferente que op2
+Op && | op1 && op2 | se op1 e op2 forem verdadeiros
+Op || | op1 || op2 | se op1 ou op2 for verdadeiro
