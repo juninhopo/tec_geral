@@ -1,4 +1,4 @@
-# Tecnologia Geral :notebook: :handbag:
+# Tecnologia  em Geral :notebook: :handbag:
 
 - Aqui voce vai encontrar variados assuntos.
 
