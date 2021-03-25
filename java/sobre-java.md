@@ -202,3 +202,11 @@ switch (variavel)
     - do
     - for
 
+- While - Enquanto
+
+```
+while (expressao)
+    comando ou {bloco de comandos}
+```
+
+- Enquanto a expressao for verdadeira, o comando sera executado. Quando a expressao falsa, o programa segue para o seu caminho normal.
