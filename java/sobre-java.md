@@ -27,7 +27,7 @@
 
 # Como e o funcionamento do java?
 
-### <strong>Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador</strong>
+### <strong> Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador </strong>
 
 Editor - E o local onde realiza a escrita (desenvolvimento) do programa (codigo fonte). Se faz necessario um editor de texto como o bloco de notas do Windows ou Vi do Linux (respeita meu VSCODE). Existem tambem os ambientes de desenvolvimento integrado (IDE = Integrated Development Enviroment) que fornecem muitas ferramentas de suporte ao processo de desenvolvimento de software em Java e outras linguagens.
 
@@ -168,7 +168,19 @@ Ex: { //inicio de bloco<br/>
 
 ```
 if (expressao booleada)
-    comando1 ou (bloco de comandos1)
+    comando1 ou {bloco de comandos1}
 else
-    comando2 ou (bloco de comandos2)
+    comando2 ou {bloco de comandos2}
+```
+
+- Quando existe um conjunto de opcoes, podemos utilizar a estrutura switch - case.
+
+```
+switch (variavel)
+{   case(valor1):comando1; break;
+    case(valor2):comando2; break;
+    case(valor3):comando3; break;
+.....
+    default:comando_generico; break;
+ }
 ```
